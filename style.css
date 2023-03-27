@@ -1,0 +1,99 @@
+
+input {
+    width: 250px;
+    height: 20px;
+    border: 3px solid rgb(255, 255, 255);
+
+    color: rgb(255, 255, 255);
+    background-color: rgb(0, 0, 0);
+}
+
+.fax1 {
+    position: fixed;
+    left: 100px;
+    top: 50px;
+
+    color: rgb(255, 255, 255);
+}
+
+.fax2{
+    position: fixed;
+    left: 350px;
+    top: 50px;
+
+    color: rgb(255, 255, 255);
+}
+
+.mul{
+    position: fixed;
+    left: 600px;
+    top: 50px;
+
+    color: rgb(255, 255, 255);
+}
+
+.toler{
+    position: fixed;
+    left: 890px;
+    top: 50px;
+
+    color: rgb(255, 255, 255);
+}
+
+button{
+    position: fixed;
+    left: 550px;
+    top: 150px;
+
+    color: rgb(255, 255, 255);
+    border: 2px solid rgb(255, 255, 255);
+    background-color: rgb(0, 0, 0);
+}
+
+#tolera{
+    position: fixed;
+    left: 475px;
+    top:  280px;
+}
+
+#total{
+    position: fixed;
+    left: 475px;
+    top:  250px;
+}
+
+#faixa01{
+    color: rgb(255, 255, 255);
+    border: 2px solid rgb(255, 255, 255);
+    background-color: rgb(0, 0, 0);
+}
+
+#faixa02{
+    color: rgb(255, 255, 255);
+    border: 2px solid rgb(255, 255, 255);
+    background-color: rgb(0, 0, 0);
+}
+
+#mult{
+    color: rgb(255, 255, 255);
+    border: 2px solid rgb(255, 255, 255);
+    background-color: rgb(0, 0, 0);
+}
+
+#tole{
+    color: rgb(255, 255, 255);
+    border: 2px solid rgb(255, 255, 255);
+    background-color: rgb(0, 0, 0);
+}
+
+body{
+    background-color: rgb(0, 0, 0);
+}
+
+footer{
+    position: fixed;
+    left: 50px;
+    top:  350px;
+
+    color: rgb(255, 255, 255);
+}
